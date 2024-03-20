@@ -1,0 +1,13 @@
+name = "Overlay Tweaks"
+filename = "overlaytweaks-1.7.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/wql2D9Gj/versions/quOKBeze/overlaytweaks-1.7.4.jar"
+hash-format = "sha1"
+hash = "4ff45846c9cb89748b48b1e99e86694a1ef1dcce"
+
+[update]
+[update.modrinth]
+mod-id = "wql2D9Gj"
+version = "quOKBeze"

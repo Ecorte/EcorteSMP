@@ -1,0 +1,13 @@
+name = "Ecorte SMP"
+author = "Ecorte"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b78aebf1a8dae2873b20ca8fc0b9d98e0734eb4f753ef6c95d53b8011edbb67c"
+
+[versions]
+fabric = "0.15.7"
+minecraft = "1.20.4"
