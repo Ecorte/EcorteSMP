@@ -1,0 +1,8 @@
+==Scale:0.5==
+
+==Section:TopLeft==
+{{fps >= 60, "&a", fps < 30, "&c", "&e"}}{fps}&f fps
+&cX&aY&bZ: &c{bx} &a{by} &b{bz} &f| &e{velocity_xz}
+&2Facing: &a{facing} &e({facing_towards_pn_sign}{facing_towards_xz})
+&2Biome: &a{biome} &7&o({dimension}) {{slime_chunk,"&bSlime"}}
+
