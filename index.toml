@@ -171,6 +171,11 @@ hash = "c8df23a6f0bd41d2f562b460e94bb3df7df1932298bf7b5081e43dfd7c270fae"
 metafile = true
 
 [[files]]
+file = "mods/nowheel.pw.toml"
+hash = "254caab034d84da817d6967e16f049895b47390fffad0c8e6ba1ae6471f12bb4"
+metafile = true
+
+[[files]]
 file = "mods/nvidium.pw.toml"
 hash = "07dd8775324c01058896b4572e23a1ca1c355186cc501c61fc68e1151c5e177c"
 metafile = true
