@@ -254,8 +254,3 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "7005e926a32cfe6e1191ea0da9f65635e28f9dec4d827044c43da622697ba9c2"
 metafile = true
-
-[[files]]
-file = "resourcepacks/fast-better-grass.pw.toml"
-hash = "ef8b4c780a1410f45321a8f708c37a818a01ca0b576f0621e174899eb31e3853"
-metafile = true
