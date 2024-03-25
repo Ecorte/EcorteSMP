@@ -9,36 +9,8 @@ file = "config/NoChatReports/NCR-Common.json"
 hash = "0eaad2630bd70ade719f7810e805810ada25379269ea194e43d3eea30c51dec0"
 
 [[files]]
-file = "config/NoChatReports/NCR-Encryption.json"
-hash = "0f61ac30bfc78653a30d715f793e30a6a43d6715106706487efd0aea5d43a84c"
-
-[[files]]
 file = "config/NoChatReports/NCR-ServerPreferences.json"
 hash = "cd6a8249a1fe2388f3b2affb968ca51ebd8b74d93c6f1f19747a5529b9702858"
-
-[[files]]
-file = "config/NoChatReports/README.md"
-hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
-
-[[files]]
-file = "config/appleskin.json5"
-hash = "ae87f2d1b38dfd4b1e0767dfeb539261deaaf4fd2eb73692afcbaac7147855b9"
-
-[[files]]
-file = "config/authme.json5"
-hash = "d12bec2b5194ce7822f1edbae87b3ff6a8b2b01c4d49ed59ed884cd9935fb3b2"
-
-[[files]]
-file = "config/axiom/.axiominternal.hocon"
-hash = "616b4aeee5304be70bad817b606a244e5bfdf2376fa51438f4aa99893df0e0d8"
-
-[[files]]
-file = "config/axiom/axiom.hocon"
-hash = "d144e17e7c63cfa45ff5f250b154b2b493e34c83a383d943e4d8b1368ae5a518"
-
-[[files]]
-file = "config/axiom/imgui.ini"
-hash = "6e0df464fc094392e22cd3c9898eaa9a0a0508a54fdcc9fff8c640d107e94caa"
 
 [[files]]
 file = "config/betterhurtcam.toml"
@@ -57,10 +29,6 @@ file = "config/chat_heads.json5"
 hash = "53f1eec25e4b4457fce81b1349f18ca44b2dcd3a47092a609b4a0db02362f008"
 
 [[files]]
-file = "config/colorfulsubtitles.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
 file = "config/custom-hud/config.json"
 hash = "c8665a7a8c5b83680e2f6e4097ab1c49a27ce8b76908910b3240639fb791e4c3"
 
@@ -77,10 +45,6 @@ file = "config/custom-hud/profile3.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
-file = "config/debugify-descriptions.json"
-hash = "90ab56187f46405eacf52d5ac560412a983650f5483b6cd06c89bab9e27c97aa"
-
-[[files]]
 file = "config/debugify.json"
 hash = "d231741cecd30a8d331e62ee83dedc46fa7e395e4346243a9df43d8e66c04854"
 
@@ -89,148 +53,8 @@ file = "config/emi.css"
 hash = "fb9b21b863ad1ae9ad4205b5f7f63c805e460261ec8fc86b5d53ced802e34d09"
 
 [[files]]
-file = "config/emitrades.json5"
-hash = "1ed0ed3da45ed6bc11cdb624218f76f8e52b63818703b25e717bbbec615e6e92"
-
-[[files]]
-file = "config/entityculling.json"
-hash = "b8a87894038f8e3fed39687928119da41553ec72fafd3c6b98e39efb62ac6e7d"
-
-[[files]]
-file = "config/exordium.json"
-hash = "f431da1728e0d5a3536178cbb9948e2497801c9b6d51ba063fc831040aa42523"
-
-[[files]]
-file = "config/fabric/indigo-renderer.properties"
-hash = "168c737a3f1cc9128b8c9e895af20e1363465740e6181a48311dc90d8981413c"
-
-[[files]]
-file = "config/fabricskyboxes-config.json"
-hash = "582b93ab2b24e82e6d904f7030d95269d7b0326495d19017b63d58ebea2ac15b"
-
-[[files]]
-file = "config/ferritecore.mixin.properties"
-hash = "a2091a291309db8920c8a80e913ed31c24c29687d8cd25ac18076ad85a90ddb8"
-
-[[files]]
-file = "config/immediatelyfast.json"
-hash = "645b87f55cf42c04dbab8f76dc7f3173a510ffdc712305fc62371ebac07fed1e"
-
-[[files]]
-file = "config/indium-renderer.properties"
-hash = "6d25701c60a95f453555a00952be6c09e4d5286c9e41461ca1320ac7b8f6e5b0"
-
-[[files]]
-file = "config/iris.properties"
-hash = "1bb38041ee8aaf18c44f3608f876c878e9bfc86ff09cc058bbb8b1a1a846a965"
-
-[[files]]
-file = "config/itemswapper-server-cache.json"
-hash = "4dbbc3a53c61363de3a175980faa30d684da945c8175945f788236f9f9f03c4d"
-
-[[files]]
-file = "config/itemswapper.json"
-hash = "52ffbe87b7a2efc3421ab8b1f76de99f3673ddc654b7b6da32a93a6fb9b1fb5c"
-
-[[files]]
-file = "config/libjf-config-core-v2.json5"
-hash = "4638305cf13f8e6e38b6ab26afa76b6611364abf81e951941eb26b3db485e818"
-
-[[files]]
-file = "config/libjf-translate-v1.json5"
-hash = "4a3277bdbe194c396f93ad1c3548f87cb1f542fcbbb5827713d0655ec4632807"
-
-[[files]]
-file = "config/libjf-web-v1.json5"
-hash = "98f78f40683128c6d7dc0cb73727b7c2d4e27090c4dad484dbc60c7fca9fdddb"
-
-[[files]]
-file = "config/litematica.json"
-hash = "b1294e5bfab297657abb6d4c039bfa6a09c7b698c102c8f1ef8390f744be8b8b"
-
-[[files]]
-file = "config/litematica/litematica_ecorte.xyz.json"
-hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
-
-[[files]]
-file = "config/litematica/litematica_ecorte.xyz_dim_minecraft_overworld.json"
-hash = "4a6809e2e3fd89774626b695a48533eaeee73131af4f27333f09af1807eae2bf"
-
-[[files]]
-file = "config/litematica/litematica_essential.wynncraft.com.json"
-hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
-
-[[files]]
-file = "config/litematica/litematica_essential.wynncraft.com_dim_minecraft_overworld.json"
-hash = "4a6809e2e3fd89774626b695a48533eaeee73131af4f27333f09af1807eae2bf"
-
-[[files]]
-file = "config/litematica/litematica_play.blossomcraft.org.json"
-hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
-
-[[files]]
-file = "config/litematica/litematica_play.blossomcraft.org_dim_minecraft_overworld.json"
-hash = "4a6809e2e3fd89774626b695a48533eaeee73131af4f27333f09af1807eae2bf"
-
-[[files]]
-file = "config/litematica/litematica_smp.ecorte.xyz.json"
-hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
-
-[[files]]
-file = "config/litematica/litematica_smp.ecorte.xyz_dim_minecraft_overworld.json"
-hash = "4a6809e2e3fd89774626b695a48533eaeee73131af4f27333f09af1807eae2bf"
-
-[[files]]
-file = "config/litematica/litematica_smp.ecorte.xyz_dim_minecraft_the_end.json"
-hash = "4a6809e2e3fd89774626b695a48533eaeee73131af4f27333f09af1807eae2bf"
-
-[[files]]
-file = "config/litematica/litematica_smp.ecorte.xyz_dim_minecraft_the_nether.json"
-hash = "4a6809e2e3fd89774626b695a48533eaeee73131af4f27333f09af1807eae2bf"
-
-[[files]]
-file = "config/litematica/litematica_test.ecorte.xyz.json"
-hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
-
-[[files]]
-file = "config/litematica/litematica_test.ecorte.xyz_dim_minecraft_overworld.json"
-hash = "4a6809e2e3fd89774626b695a48533eaeee73131af4f27333f09af1807eae2bf"
-
-[[files]]
-file = "config/lithium.properties"
-hash = "76765e8e5ff8e927d80beb0739aababcf36e7babfd94262f2afece256cc5cd2e"
-
-[[files]]
 file = "config/malilib.json"
 hash = "a4976d6a5206a02939ee0ad164b06eb0bd0530dc5ffff42c9372327d1f5e5b64"
-
-[[files]]
-file = "config/minihud.json"
-hash = "faf3cf4efe54c2db1303b4b4a43c6732f58880a5aac0e9cb7a2400a6355ec98c"
-
-[[files]]
-file = "config/minihud/smp.ecorte.xyz.json"
-hash = "7d379de5ad06b4471e4b7e62970340437662e77453dd1bacb3bc90f975403464"
-
-[[files]]
-file = "config/minihud/smp.ecorte.xyz_dim_minecraft_overworld.json"
-hash = "dd81d0abfde5de7a306ad024b0e6dc984435eb7f14502199cff365a767dbfb2c"
-
-[[files]]
-file = "config/minihud/smp.ecorte.xyz_dim_minecraft_the_end.json"
-hash = "dd81d0abfde5de7a306ad024b0e6dc984435eb7f14502199cff365a767dbfb2c"
-
-[[files]]
-file = "config/minihud/smp.ecorte.xyz_dim_minecraft_the_nether.json"
-hash = "dd81d0abfde5de7a306ad024b0e6dc984435eb7f14502199cff365a767dbfb2c"
-
-[[files]]
-file = "config/minihud/test.ecorte.xyz.json"
-hash = "7d379de5ad06b4471e4b7e62970340437662e77453dd1bacb3bc90f975403464"
-
-[[files]]
-file = "config/minihud/test.ecorte.xyz_dim_minecraft_overworld.json"
-hash = "dd81d0abfde5de7a306ad024b0e6dc984435eb7f14502199cff365a767dbfb2c"
 
 [[files]]
 file = "config/modelfix-client.json"
@@ -241,72 +65,12 @@ file = "config/modmenu.json"
 hash = "748cb550ed31f0d7f2a8faf26cd0c659826ae10cfabc4a89eee7d32eed98f157"
 
 [[files]]
-file = "config/moreculling.toml"
-hash = "6b0e3ee823563d94940769cc61e79598bfc07722c62febac4bdbae55dd9ef1f3"
-
-[[files]]
 file = "config/notenoughcrashes.json"
 hash = "e604a3705ca2adf9499a412afefc61fb589448de43e4652db6232f94699e3950"
 
 [[files]]
-file = "config/nowheel.toml"
-hash = "4ddaf7b63170a13e8224532a142dfc1dc8e77dac63933cebe8cc9afc42fd44a0"
-
-[[files]]
-file = "config/nvidium-config.json"
-hash = "e25ddc78794060fb2476637bfe35c209147421e7e2da459a35eedfe1e85b4930"
-
-[[files]]
 file = "config/overlaytweaks.json"
 hash = "8a6b7460cdfb359bd4396bac50d08d0142a9669aef491a759a6323eb10f3340b"
-
-[[files]]
-file = "config/plasmovoice/.crowdin/de_de.json"
-hash = "2bf3644d6b57c0966cd256d4b189b8ab4472cfc773a01997281aff2991ae97f6"
-
-[[files]]
-file = "config/plasmovoice/.crowdin/es_es.json"
-hash = "a511c8336683e9d0ca0f9f05959f3d610bcdb0105cb96926ba0eed90b90a68ef"
-
-[[files]]
-file = "config/plasmovoice/.crowdin/he_il.json"
-hash = "b33b3e0f842fe7257a774e85edd19f5afe393cf8511de74bdbbd0f41a35250e1"
-
-[[files]]
-file = "config/plasmovoice/.crowdin/pl_pl.json"
-hash = "e2fdf0c9fb646b455d6edbfa610b48c7428dc1007459abfaff7e7df025c80f8f"
-
-[[files]]
-file = "config/plasmovoice/.crowdin/pt_br.json"
-hash = "e99ed1c1c816f03e0dde7e65ee7b14a18a9ad537fe09572e6db73133787d2a8d"
-
-[[files]]
-file = "config/plasmovoice/.crowdin/ru_ru.json"
-hash = "b8b3e481f8bfdb359d0b6ad5e7806290902ad175dd9b3f1dff0d87d1db5c158c"
-
-[[files]]
-file = "config/plasmovoice/.crowdin/timestamp"
-hash = "b1ea2217aa4333b88b65d2319c62943de3cf34adb9f198d5761e3cce91a21e7b"
-
-[[files]]
-file = "config/plasmovoice/.crowdin/uk_ua.json"
-hash = "6d6207e54d49664c420189e1fff3397ca75695874bb6ecd684ab342aaf885787"
-
-[[files]]
-file = "config/plasmovoice/.crowdin/zh_cn.json"
-hash = "b3d26787bc80437350c784e914dfb3bb65884749aa9eecbacdb0df2f4a74418d"
-
-[[files]]
-file = "config/plasmovoice/.crowdin/zh_tw.json"
-hash = "537da35e71aaa0a727264fcd7fa02843f07dcb50c5ba9cbd4d1b52eab13a526a"
-
-[[files]]
-file = "config/plasmovoice/client.toml"
-hash = "97b9798245b4e14dbf630cf4f1736657c7355213c574cb895af9e05ffee16a2e"
-
-[[files]]
-file = "config/respackopts/_respackopts.conf"
-hash = "33a7e147e8bc524d1b9553582638f07d195eb7e06fdc26597b78ecbdac7ea45e"
 
 [[files]]
 file = "config/rrls.toml"
@@ -315,30 +79,6 @@ hash = "d26fb6d98c7645b32cb95634bba7ece0ecea09b897a262cc1e352fbf8f3f2f5b"
 [[files]]
 file = "config/skinlayers.json"
 hash = "91dda7ff0e6d52d1d99d8196cd5f5e3d165075c194e19344fa8a034ef39b6a4c"
-
-[[files]]
-file = "config/sodium-extra-options.json"
-hash = "9f0418a66f0858a920793181fe5a57de83e5a968eab2e65af05a5d420eb41bfd"
-
-[[files]]
-file = "config/sodium-extra.properties"
-hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
-
-[[files]]
-file = "config/sodium-fingerprint.json"
-hash = "94c21d1a5b9dd409ba3befe401d21e93c01ac454dcd8132d6d7487e9497f7736"
-
-[[files]]
-file = "config/sodium-mixins.properties"
-hash = "8939df3a10627cf3b9a3cc0e2824337923e9a26d11e60f5a1f7c0cfbd171a574"
-
-[[files]]
-file = "config/sodium-options.json"
-hash = "6edc2c42f650b3c8c5399708420d8ec4c7b76cd76d778f78e969f80e5383c73f"
-
-[[files]]
-file = "config/soundcontroller.json"
-hash = "8e9f4c88c49085ff1c3cc5642d83fa77de1d8290404d80e0a29c7a61d84ab231"
 
 [[files]]
 file = "config/totemcounter.toml"
@@ -351,34 +91,6 @@ hash = "381b3be9c8daf611db35e018b71080be5d459385523d08e8e43568bb51dd11ce"
 [[files]]
 file = "config/ukus-armor-hud.toml"
 hash = "e4a259bd24d18f6904f469b1303f5ff130a19d0368600804062e874fcd860443"
-
-[[files]]
-file = "config/voicechat/translations.properties"
-hash = "b8215b84232be41438ffb7c7304b57b0677c9cad49b717db59900872080adf20"
-
-[[files]]
-file = "config/voicechat/username-cache.json"
-hash = "aefd90f12a6911269840936dcb5252fcbddaa8b6068e0393b0fd07a87a26e2f7"
-
-[[files]]
-file = "config/voicechat/voicechat-client.properties"
-hash = "01e593ee35fb622ea877439644582c3b9ee2d0313250da530ebd1a9ffb3aa130"
-
-[[files]]
-file = "config/voicechat/voicechat-server.properties"
-hash = "349731d3671ca79e84e730f0d7e895f5f51241911669c4302274be4422260206"
-
-[[files]]
-file = "config/voicechat/voicechat-volumes.properties"
-hash = "58242ef3075b166845e0081281b01113a55b9d095104a68b167e7b4bc08b87c5"
-
-[[files]]
-file = "config/yosbr/options.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "config/zoomify.json"
-hash = "8d61a625f65493f3e4f40f5e49cd0d5405b6e105b2d9c005950f78dbfb2095fa"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -517,7 +229,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "cfe29cfca29dbb7e4d357dfad08cea55146c310bfd41a9c58b2dbcc8ae7fa0b5"
+hash = "d8722607deb2192e2de2b1fbff908e506b375319b2e2cd843178b2baa707ffeb"
 metafile = true
 
 [[files]]
@@ -646,6 +358,11 @@ hash = "8b35ac594bfad2fd2533849ad3f573cc1f036be47302123a3193c9009fbe4691"
 metafile = true
 
 [[files]]
+file = "mods/worldeditcui-fabric.pw.toml"
+hash = "2873a61856b18814e8f221f7c66b7aba33a925ae5cdeea87ea3b1214db609e84"
+metafile = true
+
+[[files]]
 file = "mods/yacl.pw.toml"
 hash = "0e64714c116db266b1c35b0fea980d0ad75ddee7639d13f89d5cedf6c7e336e7"
 metafile = true
@@ -662,22 +379,22 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"
-hash = "b8924891188b993deb54e1a7e691598559c4e6e5331f2537387bb466f5393f0c"
+hash = "0aa728deb609a9a8a5885f6466f6b5df27ea6a9d488b43cdc94ad7bdb2adc21c"
 metafile = true
 
 [[files]]
 file = "resourcepacks/redstone-tweaks.pw.toml"
-hash = "429bd4003655af0cf89a00cb32ad4574e02163382ae3cacffdab6873906e9899"
+hash = "5896d6855c43a5806d7a8ee6b4e4554c80c181e6f3f637be372a613b5b1f0165"
 metafile = true
 
 [[files]]
 file = "resourcepacks/subtly-glowing-ores.pw.toml"
-hash = "a42814cdca848d4fccf5da5272d821165e1e3ff04265c6f6686791f27b9b6a4d"
+hash = "9d980277099fd73c07ff437a461c6b7308128dd4e089502c9d50584125a045b9"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "1e9f9f7053c256baf766dddba7a1f929634f5629c6787ae4ff1f117159232c22"
+hash = "0f6c80044745fdf511c04b4d20cac935fc462dbb8df3d607d258d43df67d9648"
 metafile = true
 
 [[files]]
